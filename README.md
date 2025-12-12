@@ -9,4 +9,4 @@ This repository contains a detailed technical notebook explaining sensors used i
 - Low-power IoT deployment considerations  
 - VLSI relevance for sensor interfaces, ADCs, power management, and compression  
 
-📄 Main notebook: [disaster_sensors.md](disaster_sensors.md)
+📄 Main notebook: [disaster-management-sensors.md](disaster-management-sensors.md)
